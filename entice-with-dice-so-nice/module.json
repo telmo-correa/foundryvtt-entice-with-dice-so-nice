@@ -1,0 +1,21 @@
+{
+  "name": "entice-with-dice-so-nice",
+  "title": "Entice with Dice so Nice",
+  "description": "Adds a bunch of dice textures to DsN.",
+  "author": "telmo-correa",
+  "version": "0.0.16",
+  "minimumCoreVersion": "0.8.4",
+  "compatibleCoreVersion": "9",
+  "dependencies": [
+        {
+            "type": "module",
+            "name": "dice-so-nice"
+        }
+    ],
+  "scripts": [
+        "scripts/entice-with-dice-so-nice.json"
+  ],
+  "url": "https://github.com/telmo-correa/foundryvtt-entice-with-dice-so-nice",
+  "manifest": "https://raw.githubusercontent.com/telmo-correa/foundryvtt-entice-with-dice-so-nice/main/entice-with-dice-so-nice/module.json",
+  "download": "https://github.com/telmo-correa/foundryvtt-entice-with-dice-so-nice/raw/main/module.zip"
+}
