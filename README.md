@@ -16,6 +16,9 @@
 ### Description
 This module works as an addon to Dice so Nice, adding more textures to give users more customization options for their dice.
 
+### Used Asset Credits
+* [https://github.com/telmo-correa/foundryvtt-entice-with-dice-so-nice/blob/main/entice-with-dice-so-nice/Used%20Assets%20Credits.txt](https://github.com/telmo-correa/foundryvtt-entice-with-dice-so-nice/blob/main/entice-with-dice-so-nice/Used%20Assets%20Credits.txt)
+
 ## Installation
 ### Method 1
 * Open the Foundry application and click **"Install Module"** in the **"Add-On Modules"** tab.
