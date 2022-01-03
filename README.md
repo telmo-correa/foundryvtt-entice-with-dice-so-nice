@@ -28,3 +28,9 @@ This module works as an addon to Dice so Nice, adding more textures to give user
 
 ### Method 2
 Extract the module.zip file to the public/modules directory. Use the `Manage Modules` in your World on the Settings tab of the sidebar on the right and then enable the `Entice with Dice so Nice` module.
+
+## Patch Notes
+
+**Version 0.0.16**
+
+Inistial release version.
