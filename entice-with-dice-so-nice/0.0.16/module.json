@@ -16,6 +16,6 @@
         "scripts/entice-with-dice-so-nice.json"
   ],
   "url": "https://github.com/telmo-correa/foundryvtt-entice-with-dice-so-nice",
-  "manifest": "https://raw.githubusercontent.com/telmo-correa/foundryvtt-entice-with-dice-so-nice/main/entice-with-dice-so-nice/module.json",
-  "download": "https://github.com/telmo-correa/foundryvtt-entice-with-dice-so-nice/raw/main/module.zip"
+  "manifest": "https://raw.githubusercontent.com/telmo-correa/foundryvtt-entice-with-dice-so-nice/main/entice-with-dice-so-nice/0.0.16/module.json",
+  "download": "https://github.com/telmo-correa/foundryvtt-entice-with-dice-so-nice/raw/main/0.0.16/module.zip"
 }

@@ -2,8 +2,8 @@
 ## Entice with Dice so Nice
 
 * **Author**: someusername6#5733
-* **Version**: 0.0.16
-* **Foundry VTT Compatibility**: 0.8.4 to 9
+* **Version**: 0.1.0
+* **Foundry VTT Compatibility**: 10
 * **System Compatibility**: Universal
 * **Module Dependency**: Dice So Nice! Version 3.0.0+
 
@@ -22,7 +22,7 @@ This module works as an addon to Dice so Nice, adding more textures to give user
 ## Installation
 ### Method 1
 * Open the Foundry application and click **"Install Module"** in the **"Add-On Modules"** tab.
-* Paste the following link: https://raw.githubusercontent.com/telmo-correa/foundryvtt-entice-with-dice-so-nice/main/entice-with-dice-so-nice/module.json
+* Paste the following link: https://raw.githubusercontent.com/telmo-correa/foundryvtt-entice-with-dice-so-nice/main/entice-with-dice-so-nice/0.1.0/module.json
 * Click "Install"
 * Activate the module in your World using **Manage Modules** under the **Game Settings** tab.
 
@@ -31,6 +31,10 @@ Extract the module.zip file to the public/modules directory. Use the `Manage Mod
 
 ## Patch Notes
 
+**Version 0.1.0**
+
+Updated manifest file with Foundry V10 format.
+
 **Version 0.0.16**
 
-Inistial release version.
+Initial release version.
