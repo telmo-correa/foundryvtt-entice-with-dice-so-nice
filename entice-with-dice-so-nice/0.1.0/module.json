@@ -4,13 +4,13 @@
   "description": "Adds a bunch of dice textures to DsN.",
   "version": "0.1.0",
   "compatibility": {
-    "minimum": 9,
+    "minimum": 10,
     "verified": "10.120"
   },
   "authors": [
     {
       "name": "telmo-correa",
-      "discord": "someusername6#5733",
+      "discord": "someusername6#5733"
     }
   ],
   "relationships": {
@@ -18,7 +18,7 @@
       {
         "id": "dice-so-nice",
         "type": "module",
-        "manifest": "https://raw.githubusercontent.com/ForgeVTT/fvtt-module-dlopen/master/module.json",
+        "manifest": "https://raw.githubusercontent.com/ForgeVTT/fvtt-module-dlopen/master/module.json"
       }
     ]
   },
