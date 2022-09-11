@@ -4,8 +4,8 @@
   "description": "Adds a bunch of dice textures to DsN.",
   "version": "0.1.0",
   "compatibility": {
-    "minimum": 10,
-    "verified": 10.120
+    "minimum": 9,
+    "verified": "10.120"
   },
   "authors": [
     {
