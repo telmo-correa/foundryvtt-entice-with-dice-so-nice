@@ -23,7 +23,7 @@
     ]
   },
   "scripts": [
-    "scripts/entice-with-dice-so-nice.json"
+    "scripts/entice-with-dice-so-nice.js"
   ],
   "url": "https://github.com/telmo-correa/foundryvtt-entice-with-dice-so-nice",
   "manifest": "https://raw.githubusercontent.com/telmo-correa/foundryvtt-entice-with-dice-so-nice/main/entice-with-dice-so-nice/0.1.0/module.json",
